@@ -1,4 +1,13 @@
-### Oii, sou a Jaque Domingues!
+<p align="left"> 
+  Oi, eu sou Jaque Domingues! <br> Estou participando de um bootcamp para me formar como <strong>Desenvolvedora Full Stack Jr</strong> pela <strong>Generation Brasil</strong>.
+</p>
+<p align="left">
+  🦄 Pronomes: <strong>Ela/Dela.</strong>
+</p>
+
+<p align="left">
+  💌 Pode falar comigo por aqui: ⤵️
+</p>
 <div align="center">
   <a href="https://github.com/Jaquedmonteiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaquedmonteiro&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
