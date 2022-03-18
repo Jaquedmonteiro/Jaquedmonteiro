@@ -1,5 +1,5 @@
 <h1 align="left"> 
-  <img align="right" width="350px" src="./female.gif">
+  <img align="right" width="340px" src="./female.gif">
  Olá mundo, sou a Jaque Domingues!✨ </h2><br> 
   Sou mamãe de Maria&João, comer é uma religião e estou aqui p/ aprender novas coisas!<br>
   Estou participando do bootcamp na <strong>Generatiom Brasil</strong> para me tornar uma <br><strong>Desenvolvedora Java Full Stack Jr</strong>.<br><br>
