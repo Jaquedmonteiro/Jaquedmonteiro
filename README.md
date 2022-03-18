@@ -1,19 +1,23 @@
-<p align="left"> 
-  Oi, eu sou Jaque Domingues! <br> Estou participando de um bootcamp para me formar como <strong>Desenvolvedora Full Stack Jr</strong> pela <strong>Generation Brasil</strong>.
-</p>
+<h1 align="left"> 
+  <img align="right" width="350px" src="./female.gif">
+  Olá mundo, eu sou a Jaque Domingues! </h2><br> 
+  Sou mamãe da Maria e do João, comer é uma religião e amo aprender coisas novas!<br>
+  Estou participando do bootcamp na <strong>Generatiom Brasil</strong> para me tornar uma <br><strong>Desenvolvedora Java Full Stack Jr</strong>.<br><br>
 <p align="left">
-  🌷 Pronomes: <strong>Ela/Dela.</strong>
+  🌷 Pronome: <strong>Ela</strong><br>
+  🦀 Canceriana<br>
+  💋 Maquiar é um hobby <3<br>
+  ✊ #MulheresNaTech
 </p>
 
 <p align="left">
-Entre em contato comigo: ⤵️
+Para falar comigo: ⤵️
 </p>
- <div><a href="https://www.instagram.com/jaquedmonteiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jaquem.rs@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jaquedmonteiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+ <div>           <p>
+            <a href="https://www.instagram.com/jaquedmonteiro" target="_blank"><img src="./instagram.png" width="30" target="_blank"></a> 
+            <a href = "mailto:jaquem.rs@hotmail.com"><img src="./email.png" width="30" target="_blank"></a> 
+            <a href="https://www.linkedin.com/in/jaquedmonteiro/" target="_blank"><img src="./linkedin.png" width="30" target="_blank"></a>
+            <a href="https://www.youtube.com/user/jaquedemetria" target="_blank"><img src="./youtube.png" width="30" target="_blank"></a> 
+            <a href="https://www.canva.com/design/DAE3s4-KJtw/nL-r18XRqAOVnM7u4wRIEw/view?utm_content=DAE3s4-KJtw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><img src="./cv.png" width="30" target="_blank"></a> </div>
   <p align="left">
-
-  <a href="https://github.com/Jaquedmonteiro">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Jaquedmonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
