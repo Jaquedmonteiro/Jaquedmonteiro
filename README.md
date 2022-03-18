@@ -1,12 +1,13 @@
 <h1 align="left"> 
   <img align="right" width="350px" src="./female.gif">
   Olá mundo, sou a Jaque Domingues! </h2><br> 
-  Sou mamãe da Maria e do João, comer é uma religião e amo aprender coisas novas!<br>
+  Sou mamãe de Maria&João, comer é uma religião e estou aqui aprender novas coisas!<br>
   Estou participando do bootcamp na <strong>Generatiom Brasil</strong> para me tornar uma <br><strong>Desenvolvedora Java Full Stack Jr</strong>.<br><br>
 <p align="left">
   🌷 Pronome: <strong>Ela</strong><br>
   🦀 Canceriana<br>
   💋 Maquiar é um hobby <3<br>
+  👩‍💻 Java, MYSQL, SpringBoot, HTML5, CSS3, JavaScript, BootStrap e Angular.<br>
   ✊ #MulheresNaTech
 </p>
 
