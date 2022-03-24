@@ -17,3 +17,8 @@
             <a href="https://www.youtube.com/user/jaquedemetria" target="_blank"><img src="./youtube.png" width="30" target="_blank"></a> 
             <a href="https://www.canva.com/design/DAE3s4-KJtw/nL-r18XRqAOVnM7u4wRIEw/view?utm_content=DAE3s4-KJtw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><img src="./cv.png" width="30" target="_blank"></a></div></p>
 </div>
+<p align="center">
+  <a href="https://github.com/Jaquedmonteiro">
+    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=Jaquedmonteiro&theme=dracula&show_icons=true" />
+    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaquedmonteiro&layout=compact&langs_count=7&theme=dracula"/>  
+  </a>
