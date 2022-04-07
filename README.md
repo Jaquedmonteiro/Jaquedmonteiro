@@ -1,7 +1,7 @@
 <h1 align="left"> 
   <img align="right" width="350px" src="./female.gif">
  Olá mundo, sou a Jaque Domingues!</h2><br> 
-  Sou mamãe de Maria&João, comer é uma religião e estou aqui p/ aprender novas coisas!<br>
+  Sou mamãe de Maria&João e estou aqui p/ aprender novas coisas!<br>
   Estou participando do bootcamp na <strong>Generation Brasil</strong> para me tornar uma <br><strong>Desenvolvedora Java Full Stack</strong>.<br><br>
 <p align="left">
   🌷 Pronome: <strong>Ela</strong><br>
