@@ -6,7 +6,7 @@
   🌷 Pronome: <strong>Ela</strong><br>
   🦀 Canceriana<br>
   💋 Maquiar é um hobby <3<br>
-  👩‍💻 Java, MYSQL, SpringBoot, HTML5, CSS3, JavaScript, BootStrap e Angular.<br>
+  👩‍💻 Java, MYSQL, SpringBoot e Angular.<br>
   ✊ #MulheresNaTech
 </p>
  <div><br><p align="center">
